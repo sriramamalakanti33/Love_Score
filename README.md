@@ -76,9 +76,9 @@ They have a strong relationship that will most likely lead to a marriage.
 ## 📁 File Structure
 
 ```
-love_score/
+Love_Score/
 │
-├── love_score.py     # Main script
+├── Love_Score.py     # Main script
 └── README.md         # Project description and documentation
 ```
 
